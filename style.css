@@ -1,0 +1,49 @@
+.navbar-area {
+    background: #fbfbfb;
+}
+
+.container {
+    margin-bottom: 80px;
+}
+
+.Buy-Now-button {
+    width: 120px;
+    background-image: linear-gradient(45deg, #32A8EE 20%, #07f1c6 80%);
+    outline: none;
+    border: none;
+    color: black;
+    padding: 10px 20px;
+    border-radius: 7px;
+    font-weight: 600;
+    margin-top: 10px;
+}
+.Buy-Now-button:hover {
+    background: linear-gradient(#07f1c6 20%, #32A8EE 80%);
+}
+
+.col-md-7 p {
+    width: 580px;
+}
+
+.title {
+    text-align: center;
+    margin-bottom: 40px;
+}
+
+.card {
+    border: none;
+    border-radius: 10px;
+    box-shadow: 5px 3px 15px rgb(167, 167, 167);
+}
+
+.categories{
+    width: 100%;
+    height: 180px;
+    border-radius: 10px 6px;
+    box-shadow: 5px 5px 15px lightgrey;
+}
+
+footer {
+    text-align: center;
+    font-weight: 500;
+}
